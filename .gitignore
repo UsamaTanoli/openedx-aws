@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credentials and secrets
 *.env
 credentials.sh
@@ -11,3 +12,12 @@ secrets/
 # Temporary files
 *.log
 *.tmp
+=======
+*.env
+*.pem
+*.key
+credentials.sh
+secrets/
+.tutor/
+*.log
+>>>>>>> 1c466e7 (Initial commit for openedx on AWS EKS)
