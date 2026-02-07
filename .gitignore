@@ -1,0 +1,13 @@
+# Credentials and secrets
+*.env
+credentials.sh
+secrets/
+*.pem
+*.key
+
+# Tutor
+.tutor/
+
+# Temporary files
+*.log
+*.tmp
