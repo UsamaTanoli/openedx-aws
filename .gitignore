@@ -1,7 +1,6 @@
 *.env
 *.pem
 *.key
-credentials.sh
-secrets/
-.tutor/
+load.sh
 *.log
+.tutor/
